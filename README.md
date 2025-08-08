@@ -3,9 +3,9 @@
 <!-- Banner -->
 
 <!-- Intro -->
-<h2 align="center">Hi 👋, I'm Sahil</h2>
+### <h2 align="center"> Hi 👋, I'm Sahil !</h2>
 <p align="center">
-  🚀 Engineering Student | Web Developer | Tech Explorer  
+ Engineering Student | Web Developer | Tech Explorer  
 </p>
 
 ---
@@ -13,44 +13,40 @@
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE — 2nd Year  
 - 🌱 Currently learning **Full Stack Development**  
-- 🛠 Interested in **PWA development, UI/UX, and Automation**  
-- ⚡ Fun fact: I debug faster at 2 AM 😅  
+- 🛠 Interested in **PWA development, UI/UX, and Automation** 
 
 ---
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-</p>
+### Languages and Tools:
+
+
+<a href="#" target="_blank"><img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="#" target="_blank"><img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="#" target="_blank"> <img align="left" alt="Python" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<!--<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a> -->
+<a href="#" target="_blank"> <img align="left" alt="C++" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="#" target="_blank"> <img align="left" alt="git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="bash" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" />
+<br />
+<br />
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📬 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/fluent/48/gmail-new.png" alt="Email"/>
-  </a>
-</p>
+<br>
+<a href="#" target="_blank"><img align="left" alt=" LinkedIn" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="#" target="_blank"><img align="left" alt=" Instagram" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="#" target="_blank"><img align="left" alt=" Twitter" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /> 
+<!-- <a href="#" target="_blank"><img align="left" alt=" Medium" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /> -->
+<!-- <a href="#" target="_blank"><img align="left" alt=" " width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a> -->
+<!-- <a href="#" target="_blank"><img align="left" alt=" Behance" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" /> -->
+<!-- <a href="#" target="_blank"><img align="left" alt=" Dribbble" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" /> -->
+<!-- <a href="#" target="_blank"><img align="left" alt="website" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a> -->
+
+<br />
+<br />
+<br />
+
 
 ---
 
