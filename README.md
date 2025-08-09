@@ -1,8 +1,4 @@
-<!-- Minimal & Aesthetic GitHub Profile README -->
 
-<!-- Banner -->
-
-<!-- Intro -->
 ### <h2 align="center"> Hi, I'm Sahil !</h2>
 <p align="center">
  Engineering Student | Web Developer | Tech Explorer  
