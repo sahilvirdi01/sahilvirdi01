@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <!-- Intro -->
-### <h2 align="center"> Hi 👋, I'm Sahil !</h2>
+### <h2 align="center"> Hi, I'm Sahil !</h2>
 <p align="center">
  Engineering Student | Web Developer | Tech Explorer  
 </p>
@@ -34,9 +34,9 @@
 ---
 ### 📬 Connect With Me
 <br>
-<a href="#" target="_blank"><img align="left" alt=" LinkedIn" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="#" target="_blank"><img align="left" alt=" Instagram" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="#" target="_blank"><img align="left" alt=" Twitter" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /> 
+<a href="#" target="_blank"><img align="left" alt=" LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="#" target="_blank"><img align="left" alt=" Instagram" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="#" target="_blank"><img align="left" alt=" Twitter" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /> 
 <!-- <a href="#" target="_blank"><img align="left" alt=" Medium" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /> -->
 <!-- <a href="#" target="_blank"><img align="left" alt=" " width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a> -->
 <!-- <a href="#" target="_blank"><img align="left" alt=" Behance" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" /> -->
@@ -44,9 +44,6 @@
 <!-- <a href="#" target="_blank"><img align="left" alt="website" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a> -->
 
 <br />
-<br />
-<br />
-
 
 ---
 
